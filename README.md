@@ -1,7 +1,7 @@
 ## Fabric Sample Network
 Hyperledger Fabric sample network
 
-## How to Run
+## How to Use
 Deploy Network
 ```bash
   ./sample-network.sh up
